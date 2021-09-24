@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CameraUI.unity
+    guid: 8a50ed52ae29e45a89a431cf2eec032d
+  - enabled: 1
+    path: Assets/Scenes/ResistorScene/ResUIScene.unity
+    guid: 0a7f8aec2d2ba4c90b351c22e6da6c3a
+  - enabled: 1
+    path: Assets/Scenes/ResistorScene/ResVideo.unity
+    guid: f94c75ac149d04c4eb8c84d7f8275af9
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/ResistorScene/ColorCodeScene.unity
+    guid: 303f87929df2245979c65c6b6fb4062b
+  - enabled: 1
+    path: Assets/Scenes/ResistorScene/ResistorTypesScene.unity
+    guid: 592787f57f874441a8538bc982cf9022
+  - enabled: 1
+    path: Assets/Scenes/LEDScene/LEDVideo.unity
+    guid: aa21e5e0704094eb3b3e460b28b23551
+  - enabled: 1
+    path: Assets/Scenes/LEDScene/LEDUIScene.unity
+    guid: 6537c618ec3b64b169b4837ea47f2622
+  - enabled: 1
+    path: Assets/Scenes/LEDScene/LEDHistoryScene.unity
+    guid: b933c503f33ed47519631307eac8d153
+  - enabled: 1
+    path: Assets/Scenes/LEDScene/LEDTypesScene.unity
+    guid: 0ad001b69583945819ddd58f5e295d77
+  - enabled: 0
+    path: 
+    guid: cf9fd2bc845a941c7bd0ee2f2ea011c7
+  - enabled: 1
+    path: Assets/Scenes/LEDScene/AC LED Scene.unity
+    guid: 6c672e654592f41ff9d9fdfa289b43db
+  - enabled: 1
+    path: Assets/Scenes/LEDScene/Application LED Scene.unity
+    guid: a0db7208b53e242a78c7727af7c2a4a1
+  - enabled: 1
+    path: Assets/Scenes/LEDScene/Miniature LED Scene.unity
+    guid: a18472f1bb6104837ae757fd2d127977
+  - enabled: 1
+    path: Assets/Scenes/LEDScene/Hight Power LED Scene.unity
+    guid: f29751dd01a5943a58424ea41f898bad
+  - enabled: 1
+    path: Assets/Scenes/CapacitorScene/CapacitorVideoScene.unity
+    guid: fdf2ac572bea849eaa8143b735fbc167
+  - enabled: 1
+    path: Assets/Scenes/CapacitorScene/CapacitorUIScene.unity
+    guid: e4765b4f504b74b3bbc6514304d9cd7c
+  - enabled: 1
+    path: Assets/Scenes/CapacitorScene/CapacitorHistoryScene.unity
+    guid: b49cb3d6684ff4740bee94ef4fb4ef95
+  - enabled: 1
+    path: Assets/Scenes/CapacitorScene/CapacitorTypesScene.unity
+    guid: 048697a33cb6e4cf0876e0fc65671f32
+  - enabled: 1
+    path: Assets/Scenes/CapacitorScene/CapacitorTypesSceneFilmCapacitor.unity
+    guid: ff7a0bfa49ad94670a0a6553adc9708f
+  - enabled: 1
+    path: Assets/Scenes/CapacitorScene/CapacitorTypesSceneElectrolyticCapacitor.unity
+    guid: 6ad3d389d5b20473bac2cb1ff62caa88
+  - enabled: 1
+    path: Assets/Scenes/CapacitorScene/CapacitorTypesSceneMicaCapacitor.unity
+    guid: 67c0b7115af734555903d6c6d29cbb6b
+  - enabled: 1
+    path: Assets/Scenes/CapacitorScene/CapacitorTypesScenePaperCapacitor.unity
+    guid: d3dcef8b1c3594d768161d46bf45d228
+  - enabled: 1
+    path: Assets/Scenes/Test/Transistor.unity
+    guid: 23205c7d601a94ce897d4eec1ddced95
+  - enabled: 1
+    path: Assets/Scenes/Test/SwitchMainUI.unity
+    guid: 9bf5ce9d78f8342c6a207526751037be
+  - enabled: 1
+    path: Assets/Scenes/Test/Switch.unity
+    guid: 7c217107ec82b4654b7b114d11dcee70
+  - enabled: 1
+    path: Assets/Scenes/Test/Battery.unity
+    guid: 8dd49d7f3230e46729000b0bebff5323
+  m_configObjects: {}

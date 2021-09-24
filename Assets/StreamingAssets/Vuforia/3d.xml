@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Pinout" size="1.000000 0.625000" />
+    <ImageTarget name="Transistor" size="1.000000 1.000000" />
+    <ImageTarget name="Battery" size="1.000000 1.185000" />
+    <ImageTarget name="t0169554949b9b547e1" size="1.000000 0.853226" />
+  </Tracking>
+</QCARConfig>
